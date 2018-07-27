@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/bukharim96/stiler#readme",
   "dependencies": {
-    "babel-plugin-syntax-jsx": "^6.18.0"
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "css-to-react-native": "^2.2.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
